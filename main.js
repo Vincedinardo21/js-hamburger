@@ -1,6 +1,6 @@
-const element = document.querySelector("ul");
+const hamburger = document.querySelector("div.header-right");
 
-element.addEventListener("click",
+hamburger.addEventListener("click",
     function(){
         console.log("Hide menu");
     }
