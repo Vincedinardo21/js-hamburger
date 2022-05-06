@@ -1,4 +1,4 @@
-var element = document.querySelector("hamburger-menu");
+const element = document.querySelector("ul");
 
 element.addEventListener("click",
     function(){
