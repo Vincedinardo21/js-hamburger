@@ -1,4 +1,4 @@
-const hamburger = document.querySelector("div.header-right");
+const hamburger = document.querySelector("div.header-right > a");
 const showMenu = document.querySelector("div.hamburger-menu");
 const closeMenu = document.querySelector("a.close");
 
